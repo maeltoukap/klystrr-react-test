@@ -4,7 +4,7 @@ function App() {
   return (
     <main id="home">
       <div className="welcome-card">
-        <div className="badge">React + Vite Updated by Pola Check socket again again in another tab</div>
+        <div className="badge">React + Vite Updated by Pola Check socket again again in another tabs tabs</div>
         <h1>
           Hello &amp; Welcome to<br />
           <span className="brand">Klystrr</span>
