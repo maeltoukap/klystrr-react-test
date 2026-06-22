@@ -11,7 +11,7 @@ function App() {
         </h1>
         <p className="tagline">
           Your React test environment is up and running.<br />
-          Time to build something great with Klystrr!!
+          Time to build something great with Klystrr!
         </p>
         <div className="divider" />
         <p className="hint">
